@@ -6,6 +6,17 @@ Pushpak Rover is a **semi-autonomous parcel delivery robot** designed to solve t
 
 ---
 
+## 📋 Problem Statement & Selection Process
+
+This project was developed as part of **InnoThon 2.0**, a campus innovation hackathon organized by NIT Warangal and Hitachi Energy. Teams were given real-world challenges and required to submit an initial proposal before being selected for prototype development.
+
+- 🧾 [InnoThon Official Poster (Problem Statement)](Docs/Innothon_Problem_Statement.pdf)
+- 📝 [Initial Proposal Document](Docs/Initial_Proposal.pdf)
+
+Only after review and shortlisting were teams allowed to proceed to build their prototype.
+
+---
+
 ## 📌 Problem Statement
 
 At our college, all courier deliveries are left at the **main gate**, forcing students and faculty to **walk long distances** to collect them. This causes loss of time and effort.
